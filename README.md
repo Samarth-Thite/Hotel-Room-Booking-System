@@ -96,6 +96,6 @@ User authentication and admin panel
 🧑‍💻 Author
 Made with ☕ and 💡 by Samarth Thite.
 - **Samarth Thite** (Project Lead & Developer)
-- **Harikesh Nikam** (Team Member)
+- **Hrishikesh Nikam** (Team Member)
 ![Screenshot 2025-07-10 085716](https://github.com/user-attachments/assets/a4ddc8cd-b9d5-43d6-bf0f-ab9b69b96e45)
 
