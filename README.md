@@ -6,7 +6,7 @@ A simple **console-based Java application** that simulates a basic hotel room bo
 ✅ PostgreSQL Database  
 ✅ Simple Project Structure (no Maven)
 
----
+
 
 ## 📂 Project Structure
 
