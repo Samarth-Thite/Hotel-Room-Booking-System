@@ -51,6 +51,7 @@ CREATE TABLE IF NOT EXISTS bookings (
     check_out DATE,
     status VARCHAR(20)
 );
+
 ⚙️ Configuration
 Edit the PostgreSQL credentials in your HotelRoomBookingSystem.java file:
 
