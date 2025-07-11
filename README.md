@@ -62,21 +62,18 @@ String url = "jdbc:postgresql://localhost:5432/hotel_booking_db";
 String user = "postgres";
 String password = "root123";
 🚀 How to Run
+
 Clone this repo or copy the project folder.
-
 Set up PostgreSQL and create the required tables.
-
 Open the project in Eclipse or any Java IDE.
-
 Compile and run HotelRoomBookingSystem.java.
-
 Use the console menu to:
-
 Register users
-
 View available rooms
-
 Book a room
+
+
+<img width="290" height="273" alt="Screenshot 2025-07-10 085716" src="https://github.com/user-attachments/assets/0f787fc7-08ae-49bf-9031-c4e0c773c6ef" />
 
 🧠 Features
 ✔️ Register new users
